@@ -1,6 +1,6 @@
 ---
 ID: 47
-post_title: Eventos
+post_title: Cultura
 author: admin
 post_excerpt: ""
 layout: page
