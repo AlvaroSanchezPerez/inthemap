@@ -15,7 +15,7 @@ post_date: 2019-12-08 10:10:30
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link">Sección_1</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link" href="http://inthemap.epizy.com/wp-admin/post.php?post=45&amp;action=edit">Sección_1</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:column -->
 
