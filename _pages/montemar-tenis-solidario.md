@@ -1,7 +1,7 @@
 ---
 ID: 76
 post_title: Montemar, tenis solidario en la India
-author: admin
+author: JC
 post_excerpt: ""
 layout: page
 permalink: >
