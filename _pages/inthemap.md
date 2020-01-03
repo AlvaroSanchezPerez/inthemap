@@ -4,7 +4,7 @@ post_title: InTheMap
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://inthemap.epizy.com/inthemap/
+permalink: http://inthemap.epizy.com/
 published: true
 post_date: 2019-12-08 10:10:30
 ---
@@ -27,5 +27,5 @@ post_date: 2019-12-08 10:10:30
 <!-- /wp:group -->
 
 <!-- wp:button {"align":"right"} -->
-<div class="wp-block-button alignright"><a class="wp-block-button__link" href="http://inthemap.epizy.com/inthemap/cultura">Cultura</a></div>
+<div class="wp-block-button alignright"><a class="wp-block-button__link" href="http://inthemap.epizy.com/inthemap/cultura/">Cultura</a></div>
 <!-- /wp:button -->
