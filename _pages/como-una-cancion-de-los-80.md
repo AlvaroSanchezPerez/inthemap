@@ -5,10 +5,14 @@ author: JC
 post_excerpt: ""
 layout: page
 permalink: >
-  http://inthemap.epizy.com/inthemap/eventos/como-una-cancion-de-los-80/
+  http://inthemap.epizy.com/inthemap/cultura/como-una-cancion-de-los-80/
 published: true
 post_date: 2020-01-03 08:50:58
 ---
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.barcelona.cat/barcelonacultura/sites/default/files/styles/_recomanem__detall/public/como_cancion_80.jpeg?itok=MEjJROnK" alt=""/></figure>
+<!-- /wp:image -->
+
 <!-- wp:paragraph -->
 <p>Una comedia musical que repasa las canciones más emblemáticas de los ochenta, los noventa&nbsp;y actuales mientras seguimos la historia de unos amigos.</p>
 <!-- /wp:paragraph -->
@@ -18,7 +22,7 @@ post_date: 2020-01-03 08:50:58
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>La obra "<em>Como una canción de los 80"</em> se podrá ver <strong>del 11 al 26 de enero</strong>, los sábados y domingos a las 18.30 horas, en el <strong>Eixample Teatre</strong>. Este espacio de la calle de Aragó es una de las salas culturales del barrio L'Eixample, y está destinada a exhibir todo tipo de propuestas escénicas, como teatro, danza y música, pero también exposiciones, convirtiéndose en un auténtico centro cultural de la ciudad.</p>
+<p>La obra&nbsp;"<em>Como una canción de los 80"</em>&nbsp;se podrá ver&nbsp;<strong>del 11 al 26 de enero</strong>, los sábados y domingos a las 18.30 horas, en el&nbsp;<strong>Eixample Teatre</strong>. Este espacio de la calle de Aragó&nbsp;es una de las salas culturales del barrio L'Eixample, y está destinada a exhibir todo tipo de propuestas escénicas, como teatro, danza y música, pero también exposiciones, convirtiéndose en un auténtico centro cultural de la ciudad.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
