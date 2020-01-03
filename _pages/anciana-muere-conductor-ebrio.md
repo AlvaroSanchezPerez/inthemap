@@ -7,7 +7,7 @@ author: JC
 post_excerpt: ""
 layout: page
 permalink: >
-  http://inthemap.epizy.com/anciana-muere-conductor-ebrio/
+  http://inthemap.epizy.com/inthemap/actualidad/anciana-muere-conductor-ebrio/
 published: true
 post_date: 2020-01-03 08:45:02
 ---
