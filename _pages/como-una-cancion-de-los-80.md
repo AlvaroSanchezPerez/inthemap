@@ -5,7 +5,7 @@ author: JC
 post_excerpt: ""
 layout: page
 permalink: >
-  http://inthemap.epizy.com/como-una-cancion-de-los-80/
+  http://inthemap.epizy.com/inthemap/eventos/como-una-cancion-de-los-80/
 published: true
 post_date: 2020-01-03 08:50:58
 ---
