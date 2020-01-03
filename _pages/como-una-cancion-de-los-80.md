@@ -1,11 +1,11 @@
 ---
 ID: 72
 post_title: '&#8216;Como una canción de los 80&#8217; en el Eixample Teatre'
-author: admin
+author: JC
 post_excerpt: ""
 layout: page
 permalink: >
-  http://inthemap.epizy.com/inthemap/eventos/como-una-cancion-de-los-80/
+  http://inthemap.epizy.com/como-una-cancion-de-los-80/
 published: true
 post_date: 2020-01-03 08:50:58
 ---
