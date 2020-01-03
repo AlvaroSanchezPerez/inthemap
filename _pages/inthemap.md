@@ -4,7 +4,7 @@ post_title: InTheMap
 author: admin
 post_excerpt: ""
 layout: page
-permalink: http://inthemap.epizy.com/
+permalink: http://inthemap.epizy.com/inthemap/
 published: true
 post_date: 2019-12-08 10:10:30
 ---
